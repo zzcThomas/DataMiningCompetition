@@ -1,1 +1,1 @@
-a datamining competition in xiaomi
+#A Datamining Competition in XiaoMi
